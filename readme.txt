@@ -15,4 +15,3 @@ En son eklenen, pratik yemek tariflerini sitenize hızlıca ekleyebilirsiniz
 
 En son eklenen, pratik yemek tariflerini sitenize hızlıca ekleyebilirsiniz 
 
-<a href="http://pratikbilgiler.gen.tr">pratik bilgiler</a>
